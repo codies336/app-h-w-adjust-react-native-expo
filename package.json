@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "helps you add auto size components to your android or iOS app according to the orientation",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/codies336/app-h-w-adjust-react-native-expo"
@@ -23,7 +20,7 @@
     "linux"
   ],
   "author": "Codies",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Codies336/app-h-w-adjust-react-native-expo/issues"
   },
