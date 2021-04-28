@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Cdies336/react-native-adjust.git"
+    "url": "git+https://github.com/codies336/app-h-w-adjust-react-native-expo"
   },
   "keywords": [
     "react-native",
@@ -25,7 +25,7 @@
   "author": "Codies",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Codies336/react-native-adjust/issues"
+    "url": "https://github.com/Codies336/app-h-w-adjust-react-native-expo/issues"
   },
-  "homepage": "https://github.com/Codies336/react-native-adjust#readme"
+  "homepage": "https://github.com/Codies336/app-h-w-adjust-react-native-expo#readme"
 }
