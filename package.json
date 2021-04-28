@@ -1,0 +1,31 @@
+{
+  "name": "app-h-w-adjust-react-native-expo",
+  "version": "1.0.0",
+  "description": "helps you add auto size components to your android or iOS app according to the orientation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cdies336/react-native-adjust.git"
+  },
+  "keywords": [
+    "react-native",
+    "style",
+    "css",
+    "expo",
+    "android",
+    "ios",
+    "tv",
+    "mac",
+    "windows",
+    "linux"
+  ],
+  "author": "Codies",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Codies336/react-native-adjust/issues"
+  },
+  "homepage": "https://github.com/Codies336/react-native-adjust#readme"
+}
